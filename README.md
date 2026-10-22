@@ -1,16 +1,15 @@
 # 👋 Ciao, sono Fraws
 
 ## 📌 Chi Sono
-Breve introduzione personale (2-3 righe): formazione, interessi principali, cosa ti appassiona dello sviluppo software.
+I am Francesco, a pragmatic programmer currently pursuing a Master's degree in Computer Engineering with a specialization in Embedded Systems at the University of Salerno (Unisa). I am deeply passionate about bridging the gap between software and hardware, developing solutions that integrate sensors, actuators, microprocessors, and logic circuits. My approach to engineering is driven by my personal motto: nothing is too difficult when you have the drive to learn and the courage to challenge yourself.
 
 ## 🛠️ Tech Stack
 Organize per categorie:
-- **Languages**: Java, Python, Dart, C/C++
+- **Languages**: Java, Python, Dart, C/C++, SQL, GOLANG, Solidity, Assembly, Verilog
 - **Frontend**: HTML, CSS
 - **Data Science**: Jupyter Notebook, Machine Learning
-- **Tools & Platforms**: CMake, Makefile
 
-## 📚 Progetti Principali
+## 📚 Alcuni progetti Principali
 
 ### 🎵 [Music Playlist Manager](https://github.com/gennaro24/Music-Playlist-Manager-)
 - **Tech**: Java, CSS
